@@ -1,0 +1,12 @@
+.directory
+node_modules
+npm-debug.log
+invoke-output.json
+*.zip
+.terraform
+*.plan
+*.tfstate
+*.tfstate.backup
+squirrel.jpg.json
+settings.sh
+squirrel-gray.jpg
