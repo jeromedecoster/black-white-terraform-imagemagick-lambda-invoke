@@ -9,4 +9,3 @@ invoke-output.json
 *.tfstate.backup
 squirrel.jpg.json
 settings.sh
-squirrel-gray.jpg
